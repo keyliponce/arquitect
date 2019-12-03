@@ -1,0 +1,55 @@
+body{
+	font-family: Segoe UI;
+	font-size: 14px;
+	color: #666;
+}
+header{
+	background-color: #202020;
+}
+footer{
+	background-color: #fff;
+	padding: 25px 0;
+	border-top: 1px solid #f6f6f6;
+	color: #333;
+	text-align: center;
+}
+footer img {
+    margin-bottom: 25px;
+    margin-top: 10px;
+}
+#services{
+	background-image: url("../img/bg_pic2.jpg");
+	background-position: right;
+	background-repeat: no-repeat;
+	text-align: center;
+}
+#hero .btn-light:hover{
+	padding: 2px 40px;
+	background-color: #FF9306;
+	border: 1px solid #cdb083;
+	font-size: 12px;
+	text-transform: uppercase;
+	border-radius: 0;
+	color: #cdb083;
+	margin-top: 5%;
+	align-items: center;
+	
+}
+h1{
+	text-align: center;
+	
+}
+.btn-dorado{
+	background-color: #FF9306;
+	color: #fff;
+	font-size: 12px;
+	padding: 10px 30px;
+	border-radius: 20px;
+	letter-spacing: 2px;
+	border: 0;
+	align-items: center;
+}
+.btn-dorado:hover{
+	background-color: #fff;
+	color: #af9f66;
+}
